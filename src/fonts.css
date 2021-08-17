@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "LabGrotesqueRegular";
+    src: url("./fonts/LabGrotesqueRegular.eot");
+    src: url("./fonts/LabGrotesqueRegular.eot?#iefix")format("embedded-opentype"),
+    url("./fonts/LabGrotesqueRegular.woff") format("woff"),
+    url("./fonts/LabGrotesqueRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
